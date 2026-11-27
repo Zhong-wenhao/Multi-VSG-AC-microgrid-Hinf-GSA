@@ -1,1 +1,1 @@
-# Multi-VSG-microgrid-H--GSA
+# Multi-VSG-microgrid-Hinf-GSA
